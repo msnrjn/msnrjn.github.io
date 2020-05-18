@@ -20,23 +20,5 @@
       <description>title hogehoge</description>
     </item>
     
-    <item>
-      <title>0519</title>
-      <link>/2020/05/18/0519/</link>
-      <pubDate>Mon, 18 May 2020 19:33:29 +0900</pubDate>
-      
-      <guid>/2020/05/18/0519/</guid>
-      <description>title abc</description>
-    </item>
-    
-    <item>
-      <title>0518</title>
-      <link>/2020/05/18/0518/</link>
-      <pubDate>Mon, 18 May 2020 19:06:10 +0900</pubDate>
-      
-      <guid>/2020/05/18/0518/</guid>
-      <description>title hoge</description>
-    </item>
-    
   </channel>
 </rss>
