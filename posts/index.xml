@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on マスナリジュンのBlog</title>
+    <title>Posts on マスナリジュンの日記</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on マスナリジュンのBlog</description>
+    <description>Recent content in Posts on マスナリジュンの日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 18 May 2020 19:57:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 22:30:17 +0900</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>/2020/05/18/test/</link>
-      <pubDate>Mon, 18 May 2020 19:57:51 +0900</pubDate>
+      <title>日記 はじめました</title>
+      <link>/2020/05/21/1/</link>
+      <pubDate>Thu, 21 May 2020 22:30:17 +0900</pubDate>
       
-      <guid>/2020/05/18/test/</guid>
-      <description>title hogehoge</description>
+      <guid>/2020/05/21/1/</guid>
+      <description>小雨の中を歩いて皮膚科。 抗アレルギー剤をもらうために2ヶ月ごとに行っている。 前回と違って屋内に入る前に検温と問診をされる。看護師の距離が近す</description>
     </item>
     
   </channel>
