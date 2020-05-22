@@ -1,23 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マスナリジュンの日記</title>
-    <link>/</link>
+    <link>https://msnrjn.net/</link>
     <description>Recent content on マスナリジュンの日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 21 May 2020 22:30:17 +0900</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://msnrjn.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts</title>
-      <link>/posts/</link>
+      <title>日記 はじめました</title>
+      <link>https://msnrjn.net/2020/05/21/1/</link>
       <pubDate>Thu, 21 May 2020 22:30:17 +0900</pubDate>
       
-      <guid>/posts/</guid>
-      <description></description>
+      <guid>https://msnrjn.net/2020/05/21/1/</guid>
+      <description>&lt;p&gt;小雨の中を歩いて皮膚科。&lt;br&gt;
+抗アレルギー剤をもらうために2ヶ月ごとに行っている。&lt;br&gt;
+前回と違って屋内に入る前に検温と問診をされる。看護師の距離が近すぎる。「調子はどうですか」「悪くないです」で、1分診療。他に患者はいない。皮膚科も不景気か。&lt;/p&gt;</description>
     </item>
     
   </channel>
