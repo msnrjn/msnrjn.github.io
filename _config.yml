@@ -4,8 +4,8 @@ email:  # email of site's author
 url: https://msnrjn.net # root address of the site
 description: > # description of the site (multiple lines allowed)
 
-paginate: 5
-paginate_path: "/blog/page:num/"
+# paginate: 1
+# paginate_path: "/pages/page:num/"
 
 permalink: /:year/:month/:day/:title/
 
@@ -26,3 +26,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+#  - jekyll-paginate
