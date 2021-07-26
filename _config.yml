@@ -6,7 +6,7 @@ googlewebfonts: Fira+Code:wght@400;500;700
 lang: ja
 timezone: Asia/Tokyo
 repo:  # site repo [optional]
-data-theme: "light" # default theme "dark" | "light"
+data-theme: light # default theme "dark" | "light"
 
 author:
   name: msnrjn
