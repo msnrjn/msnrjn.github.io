@@ -5,19 +5,20 @@ layout: default
 
 <section class="post">
   <div class="flex-row-between">
-    <a href="https://msnrjn.net">マスナリジュン</a>
     <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
       <div></div>
     </button>
   </div>
-  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }} </time>
   <h1 class="title">{{ page.title }}</h1>
   <span class="meta">
     {% for tag in page.tags %}
     <a href="{{ site.baseurl }}/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
   {{ content }}
+<span style="text-align: right; margin-top: 5em;">
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }} </time>
+  <a href="https://msnrjn.net">マスナリジュン</a>
+</span>
 
-  <a href="https://msnrjn.net" style="text-align: right; margin-top: 2em;">マスナリジュン</a>
 </section>
 
 <section>
