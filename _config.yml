@@ -79,7 +79,7 @@ defaults:
       layout: "post"
 
 relative_links:
-  enabled:     true
+  enabled:     false
   collections: false
 
 
