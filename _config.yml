@@ -18,7 +18,7 @@ author:
 
 # URL settings
 url: "https://msnrjn.net" #
-baseurl: "" # leave blank if not wishd
+baseurl: "https://msnrjn.net" # leave blank if not wishd
 permalink: "https://msnrjn.net/"
 permalink: pretty 
 
