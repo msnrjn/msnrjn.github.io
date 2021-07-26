@@ -9,7 +9,7 @@
 }
 
 html {
-	font-size: 16px;
+	font-size: 17px;
 }
 
 #theme-toggle {
@@ -153,7 +153,13 @@ html[data-theme="dark"] {
 }
 
 body {
-	font-family: "Fira Code", monospace;
+	font-family:   font-family: "Helvetica Neue",
+  Arial,
+  "Hiragino Kaku Gothic ProN",
+  "Hiragino Sans",
+  Meiryo,
+  sans-serif;
+
 	text-rendering: optimizeLegibility;
 	line-height: 1.75;
 	color: var(--main-text-color);
