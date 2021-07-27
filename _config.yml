@@ -1,87 +1,27 @@
-site: マスナリジュンの日記
-title: マスナリジュンの日記
-description: >-
+title: マスナリジュンの日記 # name of the site
+author: msnrjn # name of site's author
+email:  # email of site's author
+url: https://msnrjn.net # root address of the site
+baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
   
-googlewebfonts: Fira+Code:wght@400;500;700
-lang: ja
-timezone: Asia/Tokyo
-repo:  # site repo [optional]
-data-theme: "light" # default theme "dark" | "light"
 
-author:
-  name: msnrjn
-  bio: 
-  username: msnrjn # general username
-  github:  # github username
-  twitter: msnrjn # twitter username
-  email:  # email adress
+permalink: /:slug.html
 
-# URL settings
-url: "https://msnrjn.net" #
-baseurl: "" # leave blank if not wishd
-permalink: "https://msnrjn.net/"
-permalink: pretty 
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-
-exclude:
-  - .jekyll-cache
-  - .obsidian
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-  - CONTRIBUTING.md
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
 sass:
-  sass_dir: _sass
-  style: compressed
+  style: :compressed
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-relative-links
-
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-relative_links:
-  enabled:     false
-  collections: false
-
-
-
-theme: jekyll-theme-cayman
+  - jekyll-feed
+  - jekyll-seo-tag
