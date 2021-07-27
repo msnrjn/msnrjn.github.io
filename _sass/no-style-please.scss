@@ -42,7 +42,7 @@ body {
 .post-meta { text-align: right; }
 
 h1 { font-size: 1.5em;
-margin-top: 5em;
+margin-bottom: 5em;
 }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
@@ -57,6 +57,10 @@ li { margin: 0.4rem 0;
  }
 
 *:target { background: yellow; }
+
+a{
+  text-decoration: none;
+}
 
 .w {
   max-width: 33em;
