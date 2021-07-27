@@ -1,8 +1,8 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: 
+# entries:
+#   - title: 
 #     entries:
 #       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
 #       - title: github repo
