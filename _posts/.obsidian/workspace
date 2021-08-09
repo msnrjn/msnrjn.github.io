@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "212e9e9b0d07bcbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4921a09892d0a06",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-08-08-渦禍.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b3c77d218979a10",
+    "type": "split",
+    "children": [
+      {
+        "id": "781846d804b86cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f704caac1773ca7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1bb97f3eb55dd2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16c11b97a1b92ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd33e5b62574d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f97150f2bdfd4db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-08-08-渦禍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e4921a09892d0a06",
+  "lastOpenFiles": [
+    "2021-08-08-渦禍.md",
+    "2020-10-26-reboot.md",
+    "2020-11-21-さよならTwitter.md"
+  ]
+}
