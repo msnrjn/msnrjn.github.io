@@ -33,6 +33,7 @@ body {
   min-height: 100%;
   overflow-wrap: break-word;
   word-break: break-all;
+  line-break: strict;
 }
 
 .post-meta { text-align: right; }
