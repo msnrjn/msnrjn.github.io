@@ -1,217 +1,316 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/no-style-please/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/no-style-please/" rel="alternate" type="text/html" /><updated>2021-07-28T03:09:23+09:00</updated><id>http://localhost:4000/no-style-please/feed.xml</id><title type="html">マスナリジュンの日記</title><subtitle></subtitle><author><name>msnrjn</name></author><entry><title type="html">Post Example With Headings And Toc</title><link href="http://localhost:4000/no-style-please/post-example-with-headings-and-toc.html" rel="alternate" type="text/html" title="Post Example With Headings And Toc" /><published>2020-07-09T00:00:00+09:00</published><updated>2020-07-09T00:00:00+09:00</updated><id>http://localhost:4000/no-style-please/post-example-with-headings-and-toc</id><content type="html" xml:base="http://localhost:4000/no-style-please/post-example-with-headings-and-toc.html">&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-01T22:27:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">マスナリジュンの日記</title><subtitle></subtitle><author><name>msnrjn</name></author><entry><title type="html">「リベラル」の意味</title><link href="http://localhost:4000/2021/08/25/%E3%83%AA%E3%83%98-%E3%83%A9%E3%83%AB-%E3%81%AE%E6%84%8F%E5%91%B3" rel="alternate" type="text/html" title="「リベラル」の意味" /><published>2021-08-25T00:00:00+09:00</published><updated>2021-08-25T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/25/%E3%80%8C%E3%83%AA%E3%83%99%E3%83%A9%E3%83%AB%E3%80%8D%E3%81%AE%E6%84%8F%E5%91%B3</id><content type="html" xml:base="http://localhost:4000/2021/08/25/%E3%83%AA%E3%83%98-%E3%83%A9%E3%83%AB-%E3%81%AE%E6%84%8F%E5%91%B3">&lt;p&gt;2021-08-26
+緊急事態宣言地域が拡大された。&lt;/p&gt;
 
-&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;Table of contents&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-start&quot;&gt;The start&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-middle&quot;&gt;The middle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-end&quot;&gt;The end&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;これで全人口の75%が緊急事態下にあることになる。&lt;br /&gt;
+もういっそ、日本全体に緊急事態宣言をだせばいいのではないかという意見もあるが、感染がさほど拡大していない地域からの抵抗があるそうだ。&lt;/p&gt;
 
-&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
+&lt;p&gt;新型コロナは大変な疫病だ。それはよくわかっているつもりだ。世界中がこの疫病に振り回され対応に苦慮している。ワクチン接種は進んでいる地域もあるが、貧困国などには届いていない。日本でも多くの地域で医療崩壊をおこし、救急車を呼んでも病院が受けいれないし、癌などの手術もできない状態にあるそうだ。&lt;/p&gt;
 
-&lt;h2 id=&quot;the-start&quot;&gt;&lt;a href=&quot;#the-start&quot;&gt;The start&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;もう長いこと外食をしていない。イベントにもいけない。友達とカフェでお茶することもできていない。注目している裁判の傍聴や抗議行動などにも行けていない。&lt;br /&gt;
+こんな状態がもう一年半も続いている。&lt;/p&gt;
 
-&lt;p&gt;Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.&lt;/p&gt;
+&lt;p&gt;野党の一部やその支持者らは、現政権のコロナ対応を厳しく批判している。ワクチン供給の後れや、予算の使い道、なぜ「ロックダウン」をしないか、などだ。&lt;/p&gt;
 
-&lt;h2 id=&quot;the-middle&quot;&gt;&lt;a href=&quot;#the-middle&quot;&gt;The middle&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;国によっては厳しいロックダウンによって感染拡大を押さえ込んできた。ロックダウンにもかかわらず出歩けば逮捕される国もある。ニュージーランドなどは一人の感染者が見つかっただけでロックダウンに踏み切った。それぞれのお国柄とはいえ、ちょっとおどろく。&lt;/p&gt;
 
-&lt;p&gt;Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.&lt;/p&gt;
+&lt;p&gt;日本は憲法上、このようなロックダウンはできない。移動の自由や集会の自由は、極めて重要で守られなければいけない国民の権利だからだ。他国のようなロックダウンを日本で行うのだとしたら、憲法を改正しなければいけない&lt;/p&gt;
 
-&lt;h2 id=&quot;the-end&quot;&gt;The end&lt;/h2&gt;
+&lt;p&gt;どんな形であれ憲法改正をしたい自民党は、これを奇貨として憲法改正論議に持ち込もうとしている。野党の一部議員は憲法改正をせずにロックダウンを行えるよう法改正をすべきだと主張する。野党支持者からも、早くロックダウンをすべきだと求める声が上がっている。&lt;/p&gt;
 
-&lt;p&gt;Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;</content><author><name>msnrjn</name></author><category term="example2" /><summary type="html">Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.</summary></entry><entry><title type="html">Post Example With Hr</title><link href="http://localhost:4000/no-style-please/hr-example.html" rel="alternate" type="text/html" title="Post Example With Hr" /><published>2020-07-09T00:00:00+09:00</published><updated>2020-07-09T00:00:00+09:00</updated><id>http://localhost:4000/no-style-please/hr%20example</id><content type="html" xml:base="http://localhost:4000/no-style-please/hr-example.html">&lt;p&gt;Lorem ipsum&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus. Morbi porta lacinia tincidunt. Nam aliquet est mi, nec lacinia ipsum elementum sed. Nam feugiat ipsum tortor, et pretium purus sollicitudin et.&lt;/p&gt;
+&lt;p&gt;ロックダウンには反対だ。&lt;br /&gt;
+コロナ禍は大変なことだが、ロックダウンはすべきではない。&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;一部の国は、それこそ多くの命を犠牲にして、ようやく自由を手にいれた。自由に移動し集まり発言する権利。これは目を離すとすぐに暴走する権力に対する抵抗権だ。&lt;/p&gt;
 
-&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Vestibulum&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
+&lt;p&gt;現在の日本は、世界の中でも人口あたり感染者数が多い地域となってしまった。医療は崩壊して現場は大変なことになっているそうだ。それでも、目に見える死者数は多くない。医療崩壊の余波で必要な手術が受けられず亡くなったり、経済危機や心的ストレスの影響で自死する人もいるだろう。それでも、去年の超過死亡者数は減少した。これは同時にコロナ禍にある世界の中でも極めて特殊な現象だ。&lt;/p&gt;
 
-&lt;p&gt;Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.&lt;/p&gt;
+&lt;p&gt;ここまできたら「ゼロコロナ」は不可能だ。コロナ禍前の状態には戻れない。いつでも医療に安心してかかれる社会に戻るのはしばらく後になるだろう。そのことを受け入れて、目先の「陽性判明者数」の増減に一喜一憂するのではなく、全体の超過死亡者数に注目するべきだ。&lt;/p&gt;
 
-&lt;hr data-content=&quot;discussions&quot; /&gt;
+&lt;p&gt;コロナで死ぬのは怖い、後遺症が残るのも嫌だ。そういう気持ちにはとても共感する。しかしもっと怖いものは、権力の肥大化であり暴走だ。抵抗の自由を手放してはいけない。&lt;/p&gt;
 
-&lt;p&gt;This article has been discussed here:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;lobste.rs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;/r/webdev&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;「リベラル」とは「権力からの自由」だ。「権力からの自由」とは「抵抗の自由」だ。&lt;br /&gt;
+もう一度歴史を振り返り教訓を胸に刻まなければいけない。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">2021-08-26 緊急事態宣言地域が拡大された。</summary></entry><entry><title type="html">非常時の糸電話</title><link href="http://localhost:4000/2021/08/21/%E9%9D%9E%E5%B8%B8%E6%99%82%E3%81%AE%E7%B3%B8%E9%9B%BB%E8%A9%B1" rel="alternate" type="text/html" title="非常時の糸電話" /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/21/%E9%9D%9E%E5%B8%B8%E6%99%82%E3%81%AE%E7%B3%B8%E9%9B%BB%E8%A9%B1</id><content type="html" xml:base="http://localhost:4000/2021/08/21/%E9%9D%9E%E5%B8%B8%E6%99%82%E3%81%AE%E7%B3%B8%E9%9B%BB%E8%A9%B1">&lt;p&gt;体調はほぼ元に戻ってきた。&lt;br /&gt;
+喉と鼻に違和感が残っていて、ときどき咳がでる程度。病院にはかからなかったけど、たぶんコロナにかかっていたんだとおもう。これほど多くの人が感染対策をし、お互いが距離をしっかり保っているご時世、ちょっとした風邪などかかるわけがない。&lt;/p&gt;
 
-&lt;p&gt;Feel free to reach out at my email to leave feedback and talk about the article.&lt;/p&gt;
+&lt;p&gt;身近な人も体調を崩した。自分の時とほぼ同じ症状で、より重症。熱も出て咳もひどいから「発熱相談センター」的なところに電話するがまったくつながらない。この調子では病院に行っても無駄足になるだけだろう。ということで自主的自宅療養中。&lt;/p&gt;
 
-&lt;hr data-content=&quot;footnotes&quot; /&gt;
+&lt;p&gt;東京近郊は医療崩壊を起こしているそうだ。救急車を呼んでもたらい回しになったあげく、どこの病院も受けつけてくれず自宅に帰される、というケースが頻発しているという。&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Okay here I should put something about “ipsum”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;same goes for this. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I studied latin in high school but im not able to translate &lt;em&gt;anything&lt;/em&gt;! By the way this is a longer footnote and i think it is still pretty cool, even prettier than shortier ones even though it does not say anything useful but whatever. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>msnrjn</name></author><summary type="html">Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus. Morbi porta lacinia tincidunt. Nam aliquet est mi, nec lacinia ipsum elementum sed. Nam feugiat ipsum tortor, et pretium purus sollicitudin et. Okay here I should put something about “ipsum”. &amp;#8617;</summary></entry><entry><title type="html">Language Tests</title><link href="http://localhost:4000/no-style-please/language-tests.html" rel="alternate" type="text/html" title="Language Tests" /><published>2020-07-08T00:00:00+09:00</published><updated>2020-07-08T00:00:00+09:00</updated><id>http://localhost:4000/no-style-please/language-tests</id><content type="html" xml:base="http://localhost:4000/no-style-please/language-tests.html">&lt;p&gt;Note: I took this test post from &lt;a href=&quot;https://github.com/huangyz0918/moving&quot;&gt;moving&lt;/a&gt;, which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.&lt;/p&gt;
+&lt;p&gt;こんなことははじめて経験する。&lt;br /&gt;
+ひどい病気や怪我をしたら救急車をよぶ、あとは医者がなんとかしてくれる。そう信じて疑わなかった。セーフティーネットというやつだ。&lt;br /&gt;
+その網がボロボロに破れてしまった。&lt;/p&gt;
 
-&lt;h3 id=&quot;1-日本語テスト&quot;&gt;1. 日本語テスト&lt;/h3&gt;
+&lt;p&gt;若いころに緊急入院を3度経験したことがある。&lt;br /&gt;
+医者からは「あとすこし病院にくるのが遅かったら、半身不随になっていた・死んでいた・失明していた」などと言われた。幸運と医療のおかげで今日も五体満足で暮らせている。&lt;/p&gt;
 
-&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;
+&lt;p&gt;しかし今もし、深刻な急病にかかったり不慮の事故にあったら無事ではすまなさそうだ。救急車で町をぐるぐるドライブしている間に手遅れになることもあるだろう。正直怖い。&lt;/p&gt;
 
-&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。
-最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
-がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
+&lt;p&gt;怖いから行動をできるだけ小さくする。いつもなんだか落ち着かない。感情のいちばん底に、不安が居座っている。&lt;/p&gt;
 
-&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
+&lt;p&gt;基礎疾患のない自分でもこんな精神状態だから、高齢者や傷病者の心境は想像にあまりある。このストレスが病気のトリガーになりかねない。災害など他の事情であれば、「傾聴ボランティア」のようなサポートも考えられるが、人と会うこと自体がリスクのこの疫病禍では、それも難しい。友人や家族に会うこともままならない。&lt;/p&gt;
+
+&lt;p&gt;大変なことになった。&lt;br /&gt;
+自分の弱さと無力さを痛感する。&lt;/p&gt;
+
+&lt;p&gt;なんの役にも立てないが、せめてナママスラジオで声を届けることを続けようとおもう。声を聞いて、少しでも安らいだ気持ちになってほしい。なにより、誰かに話しかけることで、自分が落ち着く。&lt;/p&gt;
+
+&lt;p&gt;吹けば切れるような細く脆い糸で、いとでんわをしている気分だ。つかず離れず、あたたかく。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">体調はほぼ元に戻ってきた。 喉と鼻に違和感が残っていて、ときどき咳がでる程度。病院にはかからなかったけど、たぶんコロナにかかっていたんだとおもう。これほど多くの人が感染対策をし、お互いが距離をしっかり保っているご時世、ちょっとした風邪などかかるわけがない。</summary></entry><entry><title type="html">昔のパンと壊れたトースター</title><link href="http://localhost:4000/2021/08/18/%E6%98%94%E3%81%AE%E3%83%91%E3%83%B3%E3%81%A8%E5%A3%8A%E3%82%8C%E3%81%9F%E3%83%88%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC" rel="alternate" type="text/html" title="昔のパンと壊れたトースター" /><published>2021-08-18T00:00:00+09:00</published><updated>2021-08-18T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/18/%E6%98%94%E3%81%AE%E3%83%91%E3%83%B3%E3%81%A8%E5%A3%8A%E3%82%8C%E3%81%9F%E3%83%88%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC</id><content type="html" xml:base="http://localhost:4000/2021/08/18/%E6%98%94%E3%81%AE%E3%83%91%E3%83%B3%E3%81%A8%E5%A3%8A%E3%82%8C%E3%81%9F%E3%83%88%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">&lt;p&gt;オーブントースターが壊れた。&lt;br /&gt;
+まだ買って一ヶ月も経ってないのに。&lt;/p&gt;
+
+&lt;p&gt;去年の暮れから自宅でパンを焼くことを日課にしている。粉と水と発酵種と塩、材料はこれだけ。こねて寝かして焼く。とてもシンプルだ。&lt;/p&gt;
+
+&lt;p&gt;きっかけはNetflixのドキュメンタリーをみたことだった。イースト菌を使わず、小麦粉についている酵母菌で発酵させるという原始的なやり方に魅力を感じた。&lt;/p&gt;
+
+&lt;p&gt;あらゆる生物には元来、自然に還る仕組みが備わっている。生きている間は発動しないが、生命活動をとめると作動する仕組みだ。よく出来ている。&lt;br /&gt;
+発酵と腐敗には大きな違いはない。人間の役に立てば発酵と言うし、役に立たなければ腐敗と言うだけ。どちらも菌が有機物を分解して自然に戻す。&lt;br /&gt;
+酵母は自然界のどこにでもいる。植物を分解する酵母はその植物の表面に付着してその時を待っている。&lt;/p&gt;
+
+&lt;p&gt;パンづくりのための酵母は「ドライイースト」としてスーパーにも売っている。自然界に存在する酵母の中で、発酵力が強くアルコール生成力が比較的少ない酵母を純粋培養したものだ。小麦粉200グラムに対し、ドライイースト1グラムも入れれば十分に発酵する力を持っている。この十分の一の量でも時間はかかるがちゃんと発酵する。&lt;/p&gt;
+
+&lt;p&gt;ドライイーストで発酵させたパンには大事な要素が欠けている。乳酸菌だ。&lt;br /&gt;
+ドライイーストが普及する前の時代は小麦粉の表面についている菌を使って発酵させていたらしい。小麦粉には酵母と乳酸菌が付着している。この乳酸菌があることで、人間の消化器では分解しにくいグルテンを分解し消化しやすくしてくれる。パンの劣化を防ぐ効果もある。なによりうまい。&lt;/p&gt;
+
+&lt;p&gt;乳酸菌をいかしたパンのことをサワードゥブレッドなどという。自分がつくってるのはこれだ。ドライイーストを使う方法に比べてすこしだけ手間がかかるが、一度食べると戻れない。香りが良く、ほどよい酸味が唾液を誘発して口の中で味わいが広がる。胃にもたれない。&lt;/p&gt;
+
+&lt;p&gt;昨年末以来、毎日毎日焼いていた。ちゃんとしたオーブンを持っていなかったからトースターで工夫をして焼いていた。すこし欲が出てコンベクションオーブントースターなるものを買った。8000円くらいだった。&lt;/p&gt;
+
+&lt;p&gt;まだうまく使いこなせてなかった。庫内温度と湿度、それに蓄熱量のバランスがとれていないと、よく膨らんで表面につやのあるバリッとした皮にならない。中の生地をアルファ化させつつ水分を抜きすぎない。理想は明確だが、調整がむずかしい。試行錯誤を続けていた。&lt;/p&gt;
+
+&lt;p&gt;それがある日突然、動かなくなった。このオーブントースターが想定していない使い方をしていたのかもしれない。それにしても買って1ヶ月程度で動かなくなるとはおもわなかった。メーカーの問い合わせフォームからメールを送ったが、二日たっても返信がない。むむむ。&lt;/p&gt;
+
+&lt;p&gt;やはりちゃんとパンを焼く用のしっかりしたオーブンを買おうか。5万円くらいのオーブンなら、温度調節も簡単で蓄熱量も大きいんだろうな。コンベクション機能とスチーム機能があるから湿度調節がやりやすそうだ。レビュー動画をみると美しいカンパーニュを焼いている人がいる。いいないいな。&lt;/p&gt;
+
+&lt;p&gt;しかしできればプリミティブなやりかたを追求したい気もある。&lt;br /&gt;
+ひさしぶりにダッチオーブンをとりだして焼いてみた。よくふくらんだが底が黒焦げになってしまった。&lt;/p&gt;
+
+&lt;p&gt;さて、明日はどうやって焼こうか。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">オーブントースターが壊れた。 まだ買って一ヶ月も経ってないのに。</summary></entry><entry><title type="html">混乱の中で耳を澄ます</title><link href="http://localhost:4000/2021/08/15/%E6%B7%B7%E4%B9%B1%E3%81%AE%E4%B8%AD%E3%81%A7%E8%80%B3%E3%82%92%E6%BE%84%E3%81%BE%E3%81%99" rel="alternate" type="text/html" title="混乱の中で耳を澄ます" /><published>2021-08-15T00:00:00+09:00</published><updated>2021-08-15T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/15/%E6%B7%B7%E4%B9%B1%E3%81%AE%E4%B8%AD%E3%81%A7%E8%80%B3%E3%82%92%E6%BE%84%E3%81%BE%E3%81%99</id><content type="html" xml:base="http://localhost:4000/2021/08/15/%E6%B7%B7%E4%B9%B1%E3%81%AE%E4%B8%AD%E3%81%A7%E8%80%B3%E3%82%92%E6%BE%84%E3%81%BE%E3%81%99">&lt;p&gt;体調は一進一退。&lt;br /&gt;
+喉がすこし良くなってきたと思ったら、今度は鼻水が出始めた。熱はない。快方に向かってるんだろうか。&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;アフガニスタン全土をタリバンが制圧した、というニュースが流れた。タリバンは少し前から急速に制圧都市を増やしていて、大統領が首都から他国に逃げ出す噂もでていた。それが、あれよあれよという間にクーデターが完了してしまった。&lt;/p&gt;
+
+&lt;p&gt;トランプ前米大統領時代から米軍はアフガニスタンから撤退してきたから、「多少」の混乱は予想されていたのだそうだ。それでも米軍を撤退させない選択肢はなかった。あまりに長い駐留で、アメリカもアフガニスタンも国内世論の反発が大きくなっていた。&lt;/p&gt;
+
+&lt;p&gt;戦争は、始めるのは簡単だが終えるのがむずかしい。他国の軍隊がはいってきてから十数年も経てば、異常が常態になる。どんなに不自然なことでも時間の経過につれ一定のバランスに落ち着いてくる。そのバランスが崩れれば、混乱に乗じて権力をとろうとする勢力は必ず出てくる。&lt;/p&gt;
+
+&lt;p&gt;専門家でもないので、ニュースで聞きかじりのことを日記に書くことはこの辺にしておこう。倒された政権は汚職がひどく国民からの不満が強かったとも聞くし、タリバンはさほど悪い集団ではないという意見も見た。よくわからない。あまりにも門外漢なので、どの人の言っていることなら参考にしていいのかすらわからない。&lt;/p&gt;
+
+&lt;p&gt;心配なのは、今後世界のあちこちで同じようなことが起こらないか、ということだ。&lt;/p&gt;
+
+&lt;p&gt;ハイチでは先月、現職の大統領が暗殺された。混乱したままのハイチで数日前に大地震が起き、今日現在で1000人以上の死者が確認されている。外国メディアも十分に活動できる状態ではないだろうから、正確な被災状況を知るのはずっと先になるだろう。ハイチは2010年の大地震で死者30万人とも報じられている。まだ復興のさなかだったはず。これからのハイチが心配だ。&lt;/p&gt;
+
+&lt;p&gt;世界は未だコロナ禍まっただ中だ。どこかの国で大災害が起きたりクーデターが起きても、かつてのように支援団体やジャーナリストがすぐに動けるわけではないだろう。自国のことで手一杯だ。&lt;/p&gt;
+
+&lt;p&gt;国際社会の目が内向きになっている間隙を縫って、香港やミャンマーのようなことも起こる。コロナ禍でなければ、もっと抑止力が働いたのではないか。&lt;/p&gt;
+
+&lt;p&gt;明日、コロナにかかるかもしれない。来月は仕事を失うかもしれない。
+  人々はごく短期間、狭いエリアのことしか考えられなくなってきている。しかたない。自分の身に危険が迫っているとき、地球の裏側の国に暮らす人や、十年先、百年先の未来のことなど気にしていられない。&lt;/p&gt;
+
+&lt;p&gt;しかし「ポストコロナ」時代を考えるとき、視野が狭くなっている今のツケが、疫病よりもっと甚大なリスクとなって待ちかまえている気がしてならない。&lt;/p&gt;
+
+&lt;p&gt;こんな時だけど、こんな時だからこそ、頭を上げて耳を澄ます必要がある。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">体調は一進一退。 喉がすこし良くなってきたと思ったら、今度は鼻水が出始めた。熱はない。快方に向かってるんだろうか。</summary></entry><entry><title type="html">水の街の雨</title><link href="http://localhost:4000/2021/08/13/%E6%B0%B4%E3%81%AE%E8%A1%97%E3%81%AE%E9%9B%A8" rel="alternate" type="text/html" title="水の街の雨" /><published>2021-08-13T00:00:00+09:00</published><updated>2021-08-13T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/13/%E6%B0%B4%E3%81%AE%E8%A1%97%E3%81%AE%E9%9B%A8</id><content type="html" xml:base="http://localhost:4000/2021/08/13/%E6%B0%B4%E3%81%AE%E8%A1%97%E3%81%AE%E9%9B%A8">&lt;p&gt;雨。&lt;br /&gt;
+よく降る。梅雨の終盤のような強い雨が長く続いている。&lt;/p&gt;
+
+&lt;p&gt;全国的に降り続いているが、報道を見ると九州や中国地方で災害級に降っているようだ。出身地広島も各地で「緊急安全確保」が発令されている。もっとも深刻な事態であるという警告で、すでに災害が起こっていてもおかしくないレベルだ。&lt;/p&gt;
+
+&lt;p&gt;この警報が山側だけでなく、広島市の中心地である中区・西区・東区・南区などにも出されている。これは極めて珍しいことで、記憶にない。&lt;/p&gt;
+
+&lt;p&gt;広島市はいくつもの川が平行して流れている街だ。ひとつの大きな川が分岐して複数の小さな川になる。フォークのような地形だ。街は川と川にはさまれた中州にあり、橋を渡ってすこし歩くとまた橋がある。&lt;/p&gt;
+
+&lt;p&gt;そんな街で最悪レベルの警報がでるということは、これらの川が氾濫する危険があるということか。&lt;/p&gt;
+
+&lt;p&gt;映画『この世界の片隅に』の主人公・すずさんの実家は江波という町だ。物語の冒頭、すずさんが幼いころ、お盆に祖母の住む草津という町に歩いて行く、という描写がある。&lt;br /&gt;
+江波から草津は直線コースでごくわずかな距離だ。物語では、引き潮で現れた砂地を歩いて行く。その道は満ち潮になると海に戻る。&lt;br /&gt;
+今はこのようにして江波から草津には行くことができない。そのあたりは埋め立てをして、陸地を拡大したからだ。&lt;/p&gt;
+
+&lt;p&gt;広島は東京や他の海沿いの街と同じく、海を埋め立てて陸地を増やしてきた。山も切り開いて住宅地にした。数年間に広島で大規模な土砂災害が起き、多数の人が亡くなった災害は、住宅造成のために無理に山を削った場所だ。&lt;/p&gt;
+
+&lt;p&gt;かつて海だった場所は海に、山だった場所は山に戻ろうとする。短期的に人間が支配しても、自然の力にはかなわない。&lt;/p&gt;
+
+&lt;p&gt;また、気候危機問題も昨今の大規模災害が頻発していることの主な要因と言われている。&lt;br /&gt;
+先日発表された研究でも、地球の平均気温の急激な上昇は人間が原因であるとほぼ結論づけられた。急いで対策をしてもこれからごく短期間に平均気温は1.5度も上昇する。その結果として、災害がますます頻発する。&lt;/p&gt;
+
+&lt;p&gt;話が大きくなった。&lt;br /&gt;
+生まれ育った風景や、よく通った道、居場所だった店、縁あった人たちを思い出している。&lt;br /&gt;
+この雨で誰も死にませんように。なにも失われませんように。&lt;/p&gt;
+
+&lt;p&gt;低気圧で頭痛がひどい。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">雨。 よく降る。梅雨の終盤のような強い雨が長く続いている。</summary></entry><entry><title type="html">はんたいのはんたい</title><link href="http://localhost:4000/2021/08/11/%E3%81%AF%E3%82%93%E3%81%9F%E3%81%84%E3%81%AE%E3%81%AF%E3%82%93%E3%81%9F%E3%81%84" rel="alternate" type="text/html" title="はんたいのはんたい" /><published>2021-08-11T00:00:00+09:00</published><updated>2021-08-11T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/11/%E3%81%AF%E3%82%93%E3%81%9F%E3%81%84%E3%81%AE%E3%81%AF%E3%82%93%E3%81%9F%E3%81%84</id><content type="html" xml:base="http://localhost:4000/2021/08/11/%E3%81%AF%E3%82%93%E3%81%9F%E3%81%84%E3%81%AE%E3%81%AF%E3%82%93%E3%81%9F%E3%81%84">&lt;p&gt;体調はいまひとつすっきりしない。&lt;br /&gt;
+体のだるさはとれたけど、鼻が詰まって喉がガラガラする。どうにもしゃべりづらくて困る。&lt;/p&gt;
+
+&lt;p&gt;いつものナママスラジオはうまく喋れずもどかしかった。声がかすれたり痰がからんだりする。こういう時、しゃべるプロの人はどうしているんだろう。プロならそもそもこんな不調は招かないのか。&lt;/p&gt;
+
+&lt;p&gt;ナママスラジオを終えて一時間の休憩を挟んでまた配信。急におもいついたインタビュー企画。お相手はアンチフェミニストの人。&lt;br /&gt;
+今アンチフェミ界隈で持ち上がっているある動きについて、キーパーソンである人に話を聞いてみた。&lt;/p&gt;
+
+&lt;p&gt;ふだんはフェミニストを揶揄・嘲笑しているアカウントだけど、中の人はいたってまじめな人で、こちらの質問にもよく考えながら丁寧に答えてくれた。&lt;/p&gt;
+
+&lt;p&gt;そのひとは一年半くらい前に、あるフェミニストの言動をきっかけにしてアンチフェミになったんだそうだ。フェミニストが言っていることにしばしば矛盾があること、失礼な態度をとること、女性に対しても侮蔑・差別的な発言をすること、などに疑問をいだいたということだ。&lt;/p&gt;
+
+&lt;p&gt;いまアンチフェミの中で興味深い動きが起きている。&lt;/p&gt;
+
+&lt;p&gt;もともとアンチフェミは思想としてのフェミニズムを批判しているのではなく、Twitterで見かけるフェミニストの言動を嫌ってアンチ行動をしている。そこに思想はない。反動だ。&lt;/p&gt;
+
+&lt;p&gt;彼らアンチフェミはフェミニストを「悪」だと思っており、発言にダブスタが多いこと、性暴力や犯罪の被害者を利用して自己利益を増大させているとみて、フェミニストアカウントを批判している。&lt;/p&gt;
+
+&lt;p&gt;「悪」を批判する自分たちアンチフェミはフェミニストとは違う立ち位置をとろう、とした結果として、なんと犯罪被害者支援団体に寄付をするというアクションにでた。&lt;br /&gt;
+三日間で約300人が寄付を表明した。少ない人で1000円、多い人だと10万円もの寄付をしている。推定で合計400万円はくだらないだろう。この団体に昨年度一年間に寄せられた一般寄付金の約50%にあたる。&lt;/p&gt;
+
+&lt;p&gt;もちろん今あげた理由ではなく純粋に被害者支援に協力しようと寄付した人も少なくない。ひとりひとりにそれぞれの思いがあってのことだ。しかし、全体としてはアンチフェミアカウントが多いことの意味するところを考えざるを得ない。&lt;/p&gt;
+
+&lt;p&gt;あるアンチフェミアカウントは、独自で別の性暴力被害者支援団体をみつけてきて情報をシェアしていた。もう、アンチフェミはフェミニストだと言ってもいい逆転状態になっている。&lt;/p&gt;
+
+&lt;p&gt;こういった動きはこれまで見たことがなかった。&lt;br /&gt;
+いわゆる「ネトウヨ」vs「パヨク」の争いにおいても、相手を悪魔化して攻撃しあうだけだった。まわりからみて、どっちの言い分が正しいのか見分けるのは困難なほど、その論調は似通っていた。&lt;/p&gt;
+
+&lt;p&gt;アンチフェミに起きている現象は違う。&lt;br /&gt;
+フェミニストを「悪」と認定するところまでは他の反動と同じだが、自分たちが「悪」とは違うことを示すために善いことを行い始めている。&lt;/p&gt;
+
+&lt;p&gt;この動きに対してフェミニスト側が、自分たちのほうがもっと「善」であると示すべく、悪いところは改めるようになり「善行マウンティング」を両陣営がしあえば、この社会はずっと良くなる。&lt;/p&gt;
+
+&lt;p&gt;さて、どうなりますか。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">体調はいまひとつすっきりしない。 体のだるさはとれたけど、鼻が詰まって喉がガラガラする。どうにもしゃべりづらくて困る。</summary></entry><entry><title type="html">偶々と死者からの視線</title><link href="http://localhost:4000/2021/08/09/%E5%81%B6%E3%80%85%E3%81%A8%E6%AD%BB%E8%80%85%E3%81%8B%E3%82%89%E3%81%AE%E8%A6%96%E7%B7%9A" rel="alternate" type="text/html" title="偶々と死者からの視線" /><published>2021-08-09T00:00:00+09:00</published><updated>2021-08-09T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/09/%E5%81%B6%E3%80%85%E3%81%A8%E6%AD%BB%E8%80%85%E3%81%8B%E3%82%89%E3%81%AE%E8%A6%96%E7%B7%9A</id><content type="html" xml:base="http://localhost:4000/2021/08/09/%E5%81%B6%E3%80%85%E3%81%A8%E6%AD%BB%E8%80%85%E3%81%8B%E3%82%89%E3%81%AE%E8%A6%96%E7%B7%9A">&lt;p&gt;台風が去ってからすこし体が楽になってきた。だるさがとれた。ただの低気圧由来の不調だったかと安心したのだけど、どうもすっきり治らない。&lt;/p&gt;
+
+&lt;p&gt;喉はあいかわらずおかしい。咳が出るし声が半音低い。鼻水も少し出る。頭が重くて痛みもある。冬でもめったに風邪をひかないのにおかしい。やはりコロナにかかっているのか?&lt;/p&gt;
+
+&lt;p&gt;もう一度、ここ最近の動きを思い出してみる。どこに行って誰と会ったのか。&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;長崎の原爆の日。
+式典は広島のものとはまた違うメッセージを発信している。&lt;/p&gt;
+
+&lt;p&gt;長崎の平和宣言は市長やスピーチライターではなく、市民たちが言葉を持ち寄り考え、練り上げるのだそうだ。言葉の一つ一つに体温を感じる宣言だった。&lt;/p&gt;
+
+&lt;p&gt;この式典に、菅首相は1分遅刻したそうだ。釈明によると4分前には現地に着いていたそうだが、事務方のミスで遅刻したということだ。&lt;/p&gt;
+
+&lt;p&gt;1分。&lt;/p&gt;
+
+&lt;p&gt;自分が広島にいた頃、多くの被爆者から体験談を聞いた。それぞれの暮らしがあり、それぞれの被爆体験があったが、不思議な共通点があった。&lt;/p&gt;
+
+&lt;p&gt;被爆者が口々に言ったのは、「普段とは違ってたまたま少しだけ早め（遅めに）に家を出た・普段は通らない道をたまたま通った」などだ。&lt;br /&gt;
+ほんの偶然、気まぐれ、小さなアクシデント。それらが命運をわけた。落ちたものを拾おうとして助かった人もいる。&lt;/p&gt;
+
+&lt;p&gt;長崎に原爆投下されたのも「たまたま」だった。広島に続いて次の投下予定地は北九州の小倉だったが、その日の小倉は前日の空襲の影響で視界が悪かった。風向きが違っていたら、長崎ではなく小倉が被爆していた。&lt;/p&gt;
+
+&lt;p&gt;今生きていることは、「たまたま」の連続でしかない。&lt;/p&gt;
+
+&lt;p&gt;不幸な巡り合わせが重なって死んでいった誰かは、歴史の歯車がわずかに違っていたら自分だったかもしれない。だから生きている者には責任がある。傲慢になることなく、死んでいった人たちの視線を背中に感じ続けなければいけない。&lt;/p&gt;
+
+&lt;p&gt;長崎の平和宣言の一部を引用しておく。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
+  &lt;p&gt;核保有国と核の傘の下にいる国々のリーダーに訴えます。
+国を守るために核兵器は必要だとする「核抑止」の考え方のもとで、世界はむしろ危険性を増している、という現実を直視すべきです。&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
-
-&lt;p&gt;From &lt;a href=&quot;http://lipsum.sugutsukaeru.jp/index.cgi&quot;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2-繁体中文测试&quot;&gt;2. 繁体中文测试&lt;/h3&gt;
-
-&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;
-
-&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
-
-&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
-
-&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
-
-&lt;p&gt;國新故。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+  &lt;p&gt;地球に住むすべての皆さん。
+私たちはコロナ禍によって、当たり前だと思っていた日常が世界規模で失われてしまうという体験をしました。そして、危機を乗り越えるためには、一人ひとりが当事者として考え、行動する必要があることを学びました。今、私たちはパンデミック収束後に元に戻るのではなく、元よりもいい未来を築くためにどうすればいいのか、という問いを共有しています。&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;From &lt;a href=&quot;http://www.richyli.com/tool/loremipsum/&quot;&gt;亂數假文產生器 - Chinese Lorem Ipsum.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;3-简体中文测试&quot;&gt;3. 简体中文测试&lt;/h3&gt;
-
-&lt;p&gt;效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;团算部住县单总边素格军所，合音府教看和广光采率位转，位用品根确针百。 证其标元角工方海接交他，论象切万世认一响义，治然身本风弦带题。 向我次路持加北，她不反心。 说总元军例市决，现始即算证养，规走还壳。&lt;/p&gt;
+  &lt;p&gt;長崎平和宣言&lt;a href=&quot;https://www.city.nagasaki.lg.jp/heiwa/3070000/307100/p036984.html&quot;&gt;https://www.city.nagasaki.lg.jp/heiwa/3070000/307100/p036984.html&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。&lt;/p&gt;
+&lt;p&gt;原爆で殺された人に、1分間の黙とう。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">台風が去ってからすこし体が楽になってきた。だるさがとれた。ただの低気圧由来の不調だったかと安心したのだけど、どうもすっきり治らない。</summary></entry><entry><title type="html">渦禍</title><link href="http://localhost:4000/2021/08/08/%E6%B8%A6%E7%A6%8D" rel="alternate" type="text/html" title="渦禍" /><published>2021-08-08T00:00:00+09:00</published><updated>2021-08-08T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/08/%E6%B8%A6%E7%A6%8D</id><content type="html" xml:base="http://localhost:4000/2021/08/08/%E6%B8%A6%E7%A6%8D">&lt;p&gt;体調を崩してしまった。
+朝起きたら全身がだるく頭痛もする。のどが痛くてたまに咳が出る。&lt;/p&gt;
 
-&lt;p&gt;From &lt;a href=&quot;http://www.cancms.com/content/dummytext&quot;&gt;假文生成器， lorem ipsum Chinese&lt;/a&gt;&lt;/p&gt;</content><author><name>msnrjn</name></author><category term="example2" /><summary type="html">Note: I took this test post from moving, which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.</summary></entry><entry><title type="html">Very Very Very Long Title And Very Very Very Short Content</title><link href="http://localhost:4000/no-style-please/very-very-very-long-title-and-very-very-very-short-content.html" rel="alternate" type="text/html" title="Very Very Very Long Title And Very Very Very Short Content" /><published>2020-07-08T00:00:00+09:00</published><updated>2020-07-08T00:00:00+09:00</updated><id>http://localhost:4000/no-style-please/very-very-very-long-title-and-very-very-very-short-content</id><content type="html" xml:base="http://localhost:4000/no-style-please/very-very-very-long-title-and-very-very-very-short-content.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.&lt;/p&gt;</content><author><name>msnrjn</name></author><category term="example" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.</summary></entry><entry><title type="html">Overview Post</title><link href="http://localhost:4000/no-style-please/overview-post.html" rel="alternate" type="text/html" title="Overview Post" /><published>2020-07-07T00:00:00+09:00</published><updated>2020-07-07T00:00:00+09:00</updated><id>http://localhost:4000/no-style-please/overview-post</id><content type="html" xml:base="http://localhost:4000/no-style-please/overview-post.html">&lt;p&gt;Lorem ipsum&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.&lt;/p&gt;
+&lt;p&gt;ついにコロナにかかってしまったか。症状がでたということは10日前くらいに感染したのかもしれない。どこに行って誰と会ったっけ。記憶を辿ろうとするがうまく思考が働かない。ぼんやりとしている。&lt;/p&gt;
 
-&lt;h1 id=&quot;sample-heading-1&quot;&gt;Sample heading 1&lt;/h1&gt;
-&lt;h2 id=&quot;sample-heading-2&quot;&gt;Sample heading 2&lt;/h2&gt;
-&lt;h3 id=&quot;sample-heading-3&quot;&gt;Sample heading 3&lt;/h3&gt;
-&lt;h4 id=&quot;sample-heading-4&quot;&gt;Sample heading 4&lt;/h4&gt;
-&lt;h5 id=&quot;sample-heading-5&quot;&gt;Sample heading 5&lt;/h5&gt;
-&lt;h6 id=&quot;sample-heading-6&quot;&gt;Sample heading 6&lt;/h6&gt;
-
-&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;p&gt;Unordered:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fusce non velit cursus ligula mattis convallis vel at metus&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-  &lt;li&gt;Sed pharetra tellus massa, non elementum eros vulputate non.&lt;/li&gt;
-  &lt;li&gt;Suspendisse potenti.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ordered:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.&lt;/li&gt;
-  &lt;li&gt;Sed massa quam, auctor in eros quis, porttitor tincidunt orci.&lt;/li&gt;
-  &lt;li&gt;Nulla convallis id sapien ornare viverra.&lt;/li&gt;
-  &lt;li&gt;Nam a est eget ligula pellentesque posuere.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
-
-&lt;p&gt;The following is a blockquote:&lt;/p&gt;
+&lt;p&gt;つい最近もコロナ罹患者の体験記を読んだばかりだったので、ヒヤリとしてしまう。もう一度読み返して、これからすべきことを確認する。なかなか大変そうだ。しかもこの体験記の人が罹患した時期よりも医療の逼迫度合いは増している。同じようにはいかないだろう。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.&lt;/p&gt;
+  &lt;p&gt;高野秀行 『コロナ感染の歩き方』 その１ 体調異変からPCR検査、 陽性確認・自宅療養まで｜高野秀行辺境メルマガ｜note &lt;a href=&quot;https://note.com/henkyochannel/n/n8d03fbf5d344&quot;&gt;https://note.com/henkyochannel/n/n8d03fbf5d344&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;thematic-breaks-hr&quot;&gt;Thematic breaks (&amp;lt;hr&amp;gt;)&lt;/h2&gt;
+&lt;p&gt;今はよほど重症化して運が良くなければ入院はできなさそうだ。ホテル隔離も期待薄。「自宅療養」を覚悟しなければいけない。&lt;/p&gt;
 
-&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;You can put some text inside the horizontal rule like so.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;体温計は持っているが血中酸素濃度を測るパルスオキシメーターとやらは持っていない。Amazonで取り寄せたいが配達までずいぶん時間がかかりそうだ、間に合わない。&lt;/p&gt;
 
-&lt;hr data-content=&quot;hr with text&quot; /&gt;
+&lt;p&gt;しばらく外に出られないことを考えると食料の備蓄も必要だろう。二週間分くらいあればいいのか。とりあえずプロテインパウダーとビタミンサプリ、食物繊維パウダーの在庫があるのでなんとかなるだろう。&lt;/p&gt;
 
-&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;Or you can just have an clean horizontal rule.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ホテル隔離や入院することになった時のことも考えておいた方がいいか。体験記によると、ホテル隔離では洗濯が難しかったそうだ。滞在期間中分の下着類が必要そうだ。しかし二週間分の下着など持っていない。買うか？&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;入院することになった場合、病院でWi-Fiを使わせてもらえるだろうか。スマホを持っていない。iPadは持っているがキャリア契約をしていない。外界と隔絶されてしまうと何かと不便だし突然に連絡が取れなくなると知人たちに心配をかけるだろう。&lt;/p&gt;
 
-&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.&lt;/p&gt;
+&lt;p&gt;いや、本格的に発症したらそれどころではないのかもしれない。一人で救急車を呼ぶこともできなかったらどうしよう。夏の孤独死は多方面に迷惑をかけるから避けたい。&lt;/p&gt;
 
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+&lt;p&gt;そんなことをぼんやりとした頭でぐるぐる考えていたら眠っていた。窓ガラスがガタガタいう音で目が覚める。台風が近づいていた。&lt;/p&gt;
 
-&lt;p&gt;Now some code:&lt;/p&gt;
+&lt;p&gt;そうか。台風の低気圧で体調が悪くなってるだけかもしれない。喉が痛いのはゆうべ寝る時に扇風機の向きを間違えて、一晩中顔面に風を受け続けていたらだ。&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const ultimateTruth = 'this theme is the best!';
-console.log(ultimateTruth);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;温帯低気圧に変わった台風の残骸が近づいてくる。体はますますだるくなり頭痛もしんどい。のどの調子は良くなってきた。&lt;/p&gt;
 
-&lt;p&gt;And here is some &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;inline code&lt;/code&gt;!&lt;/p&gt;
+&lt;p&gt;よかった。たぶんコロナじゃない。
+無駄にうろたえてしまった。情けない。&lt;/p&gt;
 
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+&lt;p&gt;しかし今度はほんとにコロナにかかるかわからない。いつでも安心してコロナにかかれるように、もろもろ準備をしておかないといけないな。&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">体調を崩してしまった。 朝起きたら全身がだるく頭痛もする。のどが痛くてたまに咳が出る。</summary></entry><entry><title type="html">反応速度と議論のテーブル</title><link href="http://localhost:4000/2021/08/07/%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%A8%E8%AD%B0%E8%AB%96%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB" rel="alternate" type="text/html" title="反応速度と議論のテーブル" /><published>2021-08-07T00:00:00+09:00</published><updated>2021-08-07T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/07/%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%A8%E8%AD%B0%E8%AB%96%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB</id><content type="html" xml:base="http://localhost:4000/2021/08/07/%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%A8%E8%AD%B0%E8%AB%96%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB">&lt;p&gt;電車内で「通り魔」事件が起きた。&lt;/p&gt;
 
-&lt;p&gt;Now a table:&lt;/p&gt;
+&lt;p&gt;不幸中の幸いというべきか死者は出なかったが、被害者やそこにいた人たちの恐怖はどれほどだったか、想像にあまりある。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Tables&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;ショッキングな事件だ。誰もが不安になる。もしかしたら次は自分かもしれない。
+事件の一報直後から、Twitterはこの話題で持ち切りになった。とくに犯行の動機として「誰でもよかった」「幸せそうな女性見ると殺したい」などと容疑者が語っているとの報道が流れてからは、この事件が女性差別によるフェミサイドであるとの論調で、フェミニストを中心に声が上がった。&lt;/p&gt;
 
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;いくつかのハッシュタグが生成されたり、自衛のための防犯グッズは何がよいかが語られている。「弱者男性論」論者の責任を問う声まで上がっている。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png&quot; alt=&quot;theme logo&quot; class=&quot;ioda&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;ここは深呼吸して落ち着くべきだ。日本における通り魔事件の認知件数は、平均して年間7件に満たない。通り魔に出くわすのは、ジャンボ宝くじで一等を引き当てる確率とほぼ同じくらいだ。さらに、通り魔の犯行動機が女性差別によるものに絞れば、かなり少なくなる。&lt;/p&gt;
 
-&lt;p&gt;Logo of &lt;em&gt;no style, please!&lt;/em&gt; theme&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;今回の事件について論評するにはまだ早いとおもう。まだ正式な取り調べも始まっていないのではないか。裁判はずっと先になるだろう。警察の誰かがメディアに漏らした真偽不明の情報を元に、世論が振り回されている。&lt;/p&gt;
 
-&lt;hr data-content=&quot;footnotes&quot; /&gt;
+&lt;p&gt;男性の中に女性差別があるのは事実だろう。この社会の女性差別を否定するつもりは毛頭ない。パートナー間のフェミサイドは国際的な社会問題だ。原因を究明し、再発を防ぐべきだという論調には同意する。&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;this is a footnote. It should highlight if you click on the corresponding superscript number. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;hey there, i’m using no style please! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;this is another footnote. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;this is a very very long footnote to test if a very very long footnote brings some problems or not. I strongly hope that there are no problems but you know sometimes problems arise from nowhere. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>msnrjn</name></author><category term="example" /><summary type="html">Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. this is a footnote. It should highlight if you click on the corresponding superscript number. &amp;#8617;</summary></entry><entry><title type="html">Strange Post</title><link href="http://localhost:4000/no-style-please/strange-post.html" rel="alternate" type="text/html" title="Strange Post" /><published>2020-07-06T00:00:00+09:00</published><updated>2020-07-06T00:00:00+09:00</updated><id>http://localhost:4000/no-style-please/strange-post</id><content type="html" xml:base="http://localhost:4000/no-style-please/strange-post.html">&lt;p&gt;This post is strange. It also has some custom js.&lt;/p&gt;</content><author><name>msnrjn</name></author><summary type="html">This post is strange. It also has some custom js.</summary></entry></feed>
+&lt;p&gt;そのことと今回のような事件の関連性を、事件発生直後のタイミングで声高に論じることがどんなハレーションを起こすのか、懸念を持たずにはおれない。&lt;/p&gt;
+
+&lt;p&gt;いま自分がこうして懸念を記していることにも、本当は意味がないのかもしれない。
+明日か来週か、センセーショナルなつぎのニュースが起これば、多くの人は話題を乗り換える。または、容疑者に被差別属性があると報じられることがあれば、一斉に口をつぐむだろう。&lt;/p&gt;
+
+&lt;p&gt;ひとつひとつの事象を拙速に社会運動にするのではなく、多くの問題に共通する問題点を丁寧に探り知見を集め、解決策を模索することが必要なはずだが、議論のテーブルを設置するところまで果てしなく遠く感じる。&lt;/p&gt;
+
+&lt;p&gt;このような文章もきっと、恐怖を感じなくていい男性特権のトーンポリシングだ、とでも言われるのだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;殺人事件の動向 - &lt;a href=&quot;http://www.moj.go.jp/content/000112398.pdf&quot;&gt;http://www.moj.go.jp/content/000112398.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>msnrjn</name></author><summary type="html">電車内で「通り魔」事件が起きた。</summary></entry><entry><title type="html">空虚な悪</title><link href="http://localhost:4000/2021/08/06/%E7%A9%BA%E8%99%9A%E3%81%AA%E6%82%AA" rel="alternate" type="text/html" title="空虚な悪" /><published>2021-08-06T00:00:00+09:00</published><updated>2021-08-06T00:00:00+09:00</updated><id>http://localhost:4000/2021/08/06/%E7%A9%BA%E8%99%9A%E3%81%AA%E6%82%AA</id><content type="html" xml:base="http://localhost:4000/2021/08/06/%E7%A9%BA%E8%99%9A%E3%81%AA%E6%82%AA">&lt;p&gt;76回目の広島原爆の日。&lt;/p&gt;
+
+&lt;p&gt;広島に住んでいた頃は式典に毎年参列していたが、上京してからは5年に一度のペースになっていた。前回の参列は2015年。去年も今年もコロナ禍なので見送った。&lt;/p&gt;
+
+&lt;p&gt;今年の式典は大幅に参加人数を制限して執り行ったそうだ。いつもなら数万人がこの日、慰霊碑に向かって手を合わせる。夜に行われる灯籠流しも一般参加は無しになったようだ。&lt;/p&gt;
+
+&lt;p&gt;コロナ禍とはいえ、こうした行事まで自粛しなければいけないのだろうかと疑問に思う。&lt;br /&gt;
+式典も灯籠流しも屋外で行われる。換気は十分だ。人と人との物理的距離をとればマスクすら必要ないはず。&lt;/p&gt;
+
+&lt;p&gt;原爆の日の式典と灯籠流しは疫病禍であっても、対策を施して行うべきだ。まして五輪というビックイベントは開催しているというのに。&lt;/p&gt;
+
+&lt;p&gt;広島人にとって、人類にとって、虐殺された人々に向かって手を合わせ平和への誓いを新たにする以上に大切なことが他にあるだろうか。&lt;/p&gt;
+
+&lt;p&gt;式典で菅首相は原稿を読み飛ばすという失態をおかした。しかもよりにもよって、極めて重要な部分だった。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;「世界の実現に向けて力を尽くします。」と世界に発信しました。我が国は、核兵器の非人道性をどの国よりもよく理解する唯一の戦争被爆国であり、「核兵器のない世界」の実現に向けた努力を着実に積み重ねていくことが重要です。近年の国際的な安全保障環境は厳しく、」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;菅首相は「原稿がのりでめくれなかった」ことを読み飛ばしの理由として釈明したが、文章がジャンプして意味がつながらないことに気がつかなかったことの責任は重い。菅首相は目で文字をスキャンし、口から音声を発しているだけの人物だということが露呈した。&lt;/p&gt;
+
+&lt;p&gt;とても一国のリーダーの器ではない。&lt;br /&gt;
+問題は誰が菅首相の原稿をデザインしているのかだ。原稿を書いているのは官僚の誰かなのだろうが、どのような内容にするのかを決めている人物が他にいるはずだ。&lt;/p&gt;
+
+&lt;p&gt;ハンナ・アーレントの「凡庸な悪」という言葉を思い出す。菅首相はただ言われたことをやっているだけだ。悪意はないのだろう。誰かの指図に従って毎日粛々と原稿を読んでいる。ページが飛んで意味がつながらなくても気がつかないほどに、心を空っぽにして。&lt;/p&gt;
+
+&lt;p&gt;読み飛ばした部分をもう一度確認する。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我が国は、&lt;strong&gt;核兵器の非人道性をどの国よりもよく理解する&lt;/strong&gt;唯一の戦争被爆国であり、「核兵器のない世界」の実現に向けた努力を着実に積み重ねていくことが重要です。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;日本は核兵器禁止条約の締約を拒んでいる。&lt;br /&gt;
+「核兵器の非人道性をどの国よりもよく理解」している国が核兵器禁止条約締約を拒否していることが、国際社会にどのようなメッセージとして受け止められているのか、菅首相のスピーチライターに指示している人物にはよく考えてもらいたい。&lt;/p&gt;
+
+&lt;p&gt;平和記念式典の広島市長「平和宣言」の一部をここに転載しておく。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;日本政府には、被爆者の思いを誠実に受け止めて、一刻も早く核兵器禁止条約の締約国となるとともに、これから開催される第1回締約国会議に参加し、各国の信頼回復と核兵器に頼らない安全保障への道筋を描ける環境を生み出すなど、核保有国と非核保有国の橋渡し役をしっかりと果たしていただきたい。また、平均年齢が84歳近くとなった被爆者を始め、心身に悪影響を及ぼす放射線により、生活面で様々な苦しみを抱える多くの人々の苦悩に寄り添い、黒い雨体験者を早急に救済するとともに、被爆者支援策の更なる充実を強く求めます。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.city.hiroshima.lg.jp/site/atomicbomb-peace/179784.html&quot;&gt;平和宣言【令和３年（2021年）】 - 広島市公式ホームページ - https://www.city.hiroshima.lg.jp/site/atomicbomb-peace/179784.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>msnrjn</name></author><summary type="html">76回目の広島原爆の日。</summary></entry></feed>
